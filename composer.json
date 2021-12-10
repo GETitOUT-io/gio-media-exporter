@@ -1,5 +1,5 @@
 {
-	"name" : "wp-api/GIOPlugin",
-	"description" : "GIOPlugin",
-	"type" : "wordpress-plugin"
+  "name": "GIOPlugin",
+  "description": "GIOPlugin",
+  "type": "wordpress-plugin"
 }
