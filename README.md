@@ -1,3 +1,5 @@
+![logo-getitout-symbol-text-positive](https://user-images.githubusercontent.com/13397167/145634782-0d661765-f765-4370-b614-eab3ea719886.png)
+
 # GETitOUT Media Exporter
 
 This plugin will make GETitOUT able to export your custom content to wordpress, it will allow basic authentication through the wordpress REST API, as well as uploading different types of files to your wordpress media library.
