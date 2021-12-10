@@ -80,9 +80,9 @@ function launch_activation_script() {
         else if (file_exists (dirname (ABSPATH) . "/wp-config.php") && is_writable (dirname (ABSPATH) . "/wp-config.php")){
             wp_config_put('/');
         }
-        else { 
-            add_warning('Error adding');
-        }
+        // else { 
+        //     add_warning('Error adding');
+        // }
          delete_option('runChanges');
         
         
@@ -121,15 +121,15 @@ function delete_activation_script() {
         else if (file_exists (dirname (ABSPATH) . "/wp-config.php") && is_writable (dirname (ABSPATH) . "/wp-config.php")) {
             wp_config_delete('/');
         }
-        else if (file_exists (ABSPATH . "wp-config.php") && !is_writable (ABSPATH . "wp-config.php")) {
-            add_warning('Error removing');
-        }
-        else if (file_exists (dirname (ABSPATH) . "/wp-config.php") && !is_writable (dirname (ABSPATH) . "/wp-config.php")) {
-            add_warning('Error removing');
-        }
-        else {
-            add_warning('Error removing');
-        }
+        // else if (file_exists (ABSPATH . "wp-config.php") && !is_writable (ABSPATH . "wp-config.php")) {
+        //     add_warning('Error removing');
+        // }
+        // else if (file_exists (dirname (ABSPATH) . "/wp-config.php") && !is_writable (dirname (ABSPATH) . "/wp-config.php")) {
+        //     add_warning('Error removing');
+        // }
+        // else {
+        //     add_warning('Error removing');
+        // }
         delete_option('runRollback');
 
 
