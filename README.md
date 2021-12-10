@@ -1,4 +1,4 @@
-![logo-getitout-symbol-text-positive](https://user-images.githubusercontent.com/13397167/145634782-0d661765-f765-4370-b614-eab3ea719886.png)
+<img src='https://user-images.githubusercontent.com/13397167/145634782-0d661765-f765-4370-b614-eab3ea719886.png' width='500px'/>
 
 # GETitOUT Media Exporter
 
