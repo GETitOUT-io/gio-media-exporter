@@ -4,7 +4,7 @@
  * Description: This plugin will make GETitOUT able to export your custom content to wordpress, it will allow basic authentication through the wordpress REST API, as well as uploading different types of files to your wordpress media library. It's main use will be exporting your custom GETitOUT landing pages to your own wordpress server.
  * Author: GETitOUT.io
  * Author URI: https://GETitOUT.io
- * Version: 0.1
+ * Version: 1.0
  * Plugin URI: https://github.com/GETitOUT-io/gio-send-custom-html-wordpress-plugin
  */
 

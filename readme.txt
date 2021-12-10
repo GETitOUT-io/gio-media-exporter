@@ -1,7 +1,7 @@
 == GETitOUT Media Exporter ==
 Contributors: anonimeishon, devtective
 Tags: Stable, Export content, Marketing, Html, Auth, Landing pages
-Tested up to: 5.5
+Tested up to: 5.8.2
 Stable tag: 1.0
 License: GPL-3.0
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
